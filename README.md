@@ -1,6 +1,6 @@
 # Cofee_App 
 
-A new Flutter project.
+A new Flutter and Firebase project.
 
 Here you can choose and update your coffee:
 * Strength
