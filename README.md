@@ -1,6 +1,11 @@
-# brew_crew
+# Cofee_App 
 
 A new Flutter project.
+
+Here you can choose and update your coffee:
+* Strength
+* Sugars
+
 
 ## Getting Started
 
