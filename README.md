@@ -21,3 +21,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![alt text](https://github.com/Samiksha99/Fun-Coffee_App/blob/master/images/home.jpeg?raw=true)
+![alt text](https://github.com/Samiksha99/Fun-Coffee_App/blob/master/images/login.jpeg?raw=true)
+![alt text](https://github.com/Samiksha99/Fun-Coffee_App/blob/master/images/Settings.jpeg?raw=true)
