@@ -1,4 +1,4 @@
-# Cofee_App 
+# Coffee_App 
 
 A new Flutter and Firebase project.
 
